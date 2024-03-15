@@ -6,8 +6,12 @@ public class Student {
     private String country;
 
 
-    public static void main(String[] args) {
-        System.out.println("Student class");
+
+
+
+      public static void main(String[] args) {
+        System.out.println("Student class ok");
+
     }
     
 
