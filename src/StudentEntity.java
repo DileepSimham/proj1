@@ -1,4 +1,4 @@
-public class Student {
+public class StudentEntity {
 
     private int sId;
     private String name;
