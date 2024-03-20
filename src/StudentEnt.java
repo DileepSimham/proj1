@@ -9,7 +9,7 @@ public class StudentEnt {
         System.out.println("main method ok");
     }
     public void m1(){
-        System.out.println("m1 method");
+        System.out.println("m1 method ok");
 
     }
 
