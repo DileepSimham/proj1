@@ -6,7 +6,7 @@ public class StudentEnt {
     private String country;
 
     public static void main(String[] args) {
-        System.out.println("main method");
+        System.out.println("main method ok");
     }
     public void m1(){
 
