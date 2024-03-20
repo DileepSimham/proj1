@@ -6,7 +6,7 @@ public class StudentEnt {
     private String country;
 
     public static void main(String[] args) {
-        System.out.println("Student class ok");
+      
 
     }
 
