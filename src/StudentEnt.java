@@ -5,11 +5,11 @@ public class StudentEnt {
     private String college;
     private String country;
 
-    public static void main(String[] args, int i, int j) {
-        System.out.println(i);
+    public static void main() {
+
     }
-    public void m1(String string){
-        System.out.println("Hello word");
+    public void m1(){
+
     }
 
 
